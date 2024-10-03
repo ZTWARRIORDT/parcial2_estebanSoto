@@ -30,7 +30,7 @@
   {
       "title": "React + Vite",
       "imageSrc": "projects/project.png",
-      "description": "Proyecto enfocado al conocimiento de react y el despliegue en Vite",
+      "description": "Proyecto enfocado al conocimiento de react y despliegue en Vite",
       "skills": ["HTML", "JS", "REACT"],
       "source": "https://github.com/ZTWARRIORDT/Vite-React-semana10"
   }
