@@ -1,0 +1,18 @@
+[
+  {
+    "role": "Ingeniero Multimedia",
+    "organisation": "Google",
+    "startDate": "Septiembre, 2022",
+    "endDate": "Presente",
+    "experiences": ["Trabajé en la optimización de Google Maps", "Reduje los tiempos de carga en un 50%"],
+    "imageSrc": "history/google.png"
+  },
+  {
+    "role": "Desarrollador Fullstack",
+    "organisation": "Spotify",
+    "startDate": "Marzo, 2021",
+    "endDate": "Agosto, 2022",
+    "experiences": ["Desarrollé nuevas funciones para la plataforma web", "Mejoré la arquitectura backend para soportar millones de usuarios simultáneos"],
+    "imageSrc": "history/spotify.png"
+  }
+]
