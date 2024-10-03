@@ -21,6 +21,13 @@
     "source": "https://github.com/ZTWARRIORDT/ejercicioJS"
   },
   {
+    "title": "Clase Virtual",
+    "imageSrc": "projects/project.png",
+    "description": "Se imparten temas como funciones, arrowfunctions y operador ternario",
+    "skills": ["HTML", "JS"],
+    "source": "https://github.com/ZTWARRIORDT/ClaseVirtualWeb"
+  },
+  {
       "title": "React + Vite",
       "imageSrc": "projects/project.png",
       "description": "Proyecto enfocado al conocimiento de react y el despliegue en Vite",
