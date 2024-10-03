@@ -2,25 +2,22 @@
   {
     "title": "Proyecto Login",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "Primeros acercamientos a hhtml y css para reforzar temas",
     "skills": ["HTML", "CSS"],
-    "demo": "https://www.example.com",
     "source": "https://github.com/ZTWARRIORDT/ResponsivePage.git"
   },
   {
     "title": "Página responsiva",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "Actividad de página web responsiva como práctica de refuerzo",
     "skills": ["HTML", "CSS"],
-    "demo": "https://www.example.com",
     "source": "https://github.com/ZTWARRIORDT/ResponsivePage.git"
   },
   {
     "title": "Comparador de numeros",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "Comparador de 3 numeros encuentra el numero menor",
     "skills": ["HTML", "JS"],
-    "demo": "https://www.example.com",
     "source": "https://github.com/ZTWARRIORDT/ejercicioJS"
   },
   {
@@ -28,7 +25,6 @@
       "imageSrc": "projects/project.png",
       "description": "Proyecto enfocado al conocimiento de react y el despliegue en Vite",
       "skills": ["HTML", "JS", "REACT"],
-      "demo": "https://www.example.com",
       "source": "https://github.com/ZTWARRIORDT/Vite-React-semana10"
   }
 

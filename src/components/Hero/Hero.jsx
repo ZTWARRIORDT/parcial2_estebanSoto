@@ -11,7 +11,7 @@ export const Hero = () => {
         <p className={styles.description}>
           Soy ingeniero multimedia especializado en desarrollo web fullstack, creando soluciones digitales eficientes y atractivas.
         </p>
-        <a href="mailto:myemail@email.com" className={styles.contactBtn}>
+        <a href="#contact" className={styles.contactBtn}>
           Contactame!
         </a>
       </div>
