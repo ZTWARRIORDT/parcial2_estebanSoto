@@ -28,7 +28,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Habilidades Duras</h3>
               <p>
-              Cuento con amplios conocimientos en desarrollo web fullstack, dominando tanto tecnologías frontend como HTML, CSS, JavaScript y frameworks como React, así como lenguajes backend como Node.js, Python y PHP. Manejo bases de datos relacionales y no relacionales, como MySQL y MongoDB, además de tener experiencia en la creación de APIs RESTful y GraphQL. Mis habilidades incluyen también el uso de herramientas de control de versiones como Git, y la implementación de prácticas de DevOps para la automatización de procesos de despliegue.
+              Cuento con amplios conocimientos en desarrollo web fullstack, dominando tanto tecnologías frontend como HTML, CSS, JavaScript y frameworks como React, así como lenguajes backend como Node.js
               </p>
             </div>
           </li>
